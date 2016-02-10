@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Noticias+</string>
+    <string name="title_activity_main">Noticias+</string>
+    <string name="title_activity_init">Welcome</string>
+    <string name="ic_icon">home_image</string>
+    <string name="image_home">image</string>
+</resources>
